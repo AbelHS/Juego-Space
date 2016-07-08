@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1467753793 source:c:\users\admin\desktop\borrar final\main.cpp
+	"Menu.h"
+
+1467770677 c:\users\admin\desktop\borrar final\include\menu.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+	"GameObject.h"
+	"SpaceShip.h"
+	"Bullet.h"
+	"Comet.h"
+	"Explosion.h"
+	"Background.h"
+	"Globals.h"
+	"EnemyP.h"
+
+1467770496 c:\users\admin\desktop\borrar final\include\gameobject.h
+	<allegro5/allegro5.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+	"Globals.h"
+	"ShipPoli.h"
+
+1467746926 c:\users\admin\desktop\borrar final\include\globals.h
+
+1467766532 c:\users\admin\desktop\borrar final\include\shippoli.h
+	"GameObject.h"
+
+1467770677 c:\users\admin\desktop\borrar final\include\spaceship.h
+	"GameObject.h"
+
+1467763719 c:\users\admin\desktop\borrar final\include\bullet.h
+	"GameObject.h"
+
+1467770695 c:\users\admin\desktop\borrar final\include\comet.h
+	"GameObject.h"
+	"SpaceShip.h"
+
+1467378328 c:\users\admin\desktop\borrar final\include\explosion.h
+	"GameObject.h"
+
+1467378328 c:\users\admin\desktop\borrar final\include\background.h
+	"GameObject.h"
+
+1467765356 source:c:\users\admin\desktop\borrar final\src\background.cpp
+	"Background.h"
+
+1467768493 source:c:\users\admin\desktop\borrar final\src\bullet.cpp
+	"Bullet.h"
+
+1467770150 source:c:\users\admin\desktop\borrar final\src\comet.cpp
+	"Comet.h"
+	"Menu.h"
+
+1467766387 source:c:\users\admin\desktop\borrar final\src\enemy.cpp
+	"Enemy.h"
+
+1467766387 c:\users\admin\desktop\borrar final\include\enemy.h
+	"GameObject.h"
+
+1467766387 source:c:\users\admin\desktop\borrar final\src\explosion.cpp
+	"Explosion.h"
+
+1467764996 source:c:\users\admin\desktop\borrar final\src\gameobject.cpp
+	"GameObject.h"
+
+1467681125 source:c:\users\admin\desktop\borrar final\src\shippoli.cpp
+
+1467770302 source:c:\users\admin\desktop\borrar final\src\spaceship.cpp
+	"SpaceShip.h"
+
+1467940215 source:c:\users\admin\desktop\borrar final\src\menu.cpp
+	"Menu.h"
+
+1467769754 source:c:\users\admin\desktop\borrar final\src\enemyp.cpp
+	"EnemyP.h"
+
+1467768228 c:\users\admin\desktop\borrar final\include\enemyp.h
+	"GameObject.h"
+	"Comet.h"
+
